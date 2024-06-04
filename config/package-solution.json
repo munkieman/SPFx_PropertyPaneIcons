@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "property-pane-icons-client-side-solution",
+    "id": "44412d46-9ba5-4773-8899-136c4a0a62d2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "PropertyPaneIcons description"
+      },
+      "longDescription": {
+        "default": "PropertyPaneIcons description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "property-pane-icons Feature",
+        "description": "The feature that activates elements of the property-pane-icons solution.",
+        "id": "c3ff18d1-417b-43e0-89e4-fe5d2d8671cd",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/property-pane-icons.sppkg"
+  }
+}
